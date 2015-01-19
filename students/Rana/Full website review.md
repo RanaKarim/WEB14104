@@ -11,10 +11,14 @@ Within my shorter review I explained that I felt this website wasn't the best du
  - Function
  - Aesthetic design
 
+![enter image description here](http://i.imgur.com/24LOss1.png)
+
 ----------
 **Invisibility of system status**
 
 As I have said before there isn't much that goes on within this website. However I wouldn't say the system status is completely invisible. When you click one of the two options provided such as **menu** or **contact** a blue outline appears around them letting the user know they have clicked it an that the next page is loading. 
+
+![enter image description here](http://i.imgur.com/nWYf5Pk.png)
 
 **Mismatch between system and the real world**
 
@@ -24,9 +28,13 @@ The website does use and follow real world convention such language that I as a 
 
 There isn't really a situation where this may happen on this particular website because the functionality is so limited. However when you click the **menu** option a PDF document opens up. The website doesn't actually provide a back or exit option. You have to do this though your browser.
 
+![enter image description here](http://i.imgur.com/N5mYhSe.png)
+
 **Inconsistency**
 
 There are very view web pages to this website but it is quite consistent, the same text font , size and color have been used on the pages as well as the banner and color scheme . 
+
+![enter image description here](http://i.imgur.com/ILkf62Z.png)
 
 **Error induction**
 
@@ -54,7 +62,9 @@ The steps the user has to make to get from point A to Point B and find what they
 
 **Visual inaccessibility**
 
-There isn't much information on this website but the content is readable. Text is quite large and white that lets it stand  out clearly from the red background.
+There isn't much information on this website but the content is readable. Text is quite large and stands  out clearly from the red background.
+
+![enter image description here](http://i.imgur.com/AEnuXAa.png)
 
 **Content updatedness**
 
@@ -66,4 +76,4 @@ There is hardly any text but it all sounds like the **same** tone of voice and *
 
 **Loading time**
 
-The images used on the website are quite large. I think the developer or designer just done this to fill the web pages. However this doesn't effect the loading speed. I think this is due to the lack of content and functionality, other then small amounts of text and images there isn't much content, resources or processes to load up. 
+The images used on the website are quite large. I think the developer or designer just done this to fill the web pages. However this doesn't effect the loading speed. I think this is due to the lack of content and functionality, other then small amounts of text and images there isn't much content, resources or processes to load up.   
