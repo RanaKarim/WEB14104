@@ -14,7 +14,7 @@ li
 {
 	padding: 1em;
 	background: rgb(172, 219, 219);
-    /*border-bottom: rgb(223, 89, 89) 3px dashed;*/
+    border: rgba(89, 101, 223, 0.32) 3px solid;
 }
 
 img 
@@ -158,3 +158,20 @@ img:hover
     /*-webkit-animation-delay: 1s;*/
     /*-webkit-animation-iteration-count: infinite;*/
 }
+
+@media (min-width: 768px) {
+
+  .half1 {
+    width: 50%;
+    float: left;
+    overflow: hidden;
+  }
+
+    .half2 {
+    width: 50%;
+    float: left;
+    overflow: hidden;
+  }
+
+}
+	
