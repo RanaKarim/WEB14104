@@ -1,0 +1,73 @@
+
+/*----------------------------------------------------HEADER-------------------------------------------------*/
+
+html, body
+{
+	height: 55%;
+}
+
+.cover
+{
+	background: white;
+	width: 100%;
+	height: 100%;
+
+	background-image: url('http://trickvilla.com/wp-content/uploads/Light-Wood-Background.jpg'); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-bottom: 0px;
+}
+
+.logo
+{
+	width: 550px;
+	margin-left: 25px;
+	margin-top: 30px;
+}
+
+/*----------------------------------------------------Navigation bar-------------------------------------------------*/
+
+nav 
+{
+	background-color: rgb(171, 25, 25);
+	padding: 5px;
+	text-align: center;
+}
+
+.navbar 
+{
+	color: rgba(255, 234, 152, 0.89);
+	margin: 10px;
+	font-size: 1.5em;
+
+}
+
+.navbar:hover 
+{ 
+    color: rgba(13, 13, 13, 0.65);
+    transition: all 0.2s linear;
+}
+
+
+/*----------------------------------------------------Footer-------------------------------------------------*/
+
+footer
+{
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.footeritems 
+{
+	margin: 5px;
+	color: rgb(110, 118, 110);
+	
+}
+
+.footeritems:hover
+{
+	text-decoration: underline;
+	color: rgb(110, 118, 110); 
+}
+

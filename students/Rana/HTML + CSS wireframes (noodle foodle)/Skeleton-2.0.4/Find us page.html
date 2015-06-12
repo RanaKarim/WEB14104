@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>New Noodle Foodle</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!--<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">-->
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" type="text/css" href="css/Template New Noodle Foodle.css">
+  <link rel="stylesheet" type="text/css" href="css/Find us.css">
+
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!--<link rel="icon" type="image/png" href="images/favicon.png">-->
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <header class="cover">
+  <img class="logo" src="http://i.imgur.com/rGrCKrw.png"/>
+  </header>
+
+  <nav> 
+    <a class="navbar">home</a>
+    <a class="navbar">sushi & sashimi </a>
+    <a class="navbar">starters </a>
+    <a class="navbar">stir fried noodles </a>
+    <a class="navbar">noodles in soup </a>
+    <a class="navbar">bento </a>
+    <a class="navbar">don buri </a>
+    <a class="navbar">rice dishes </a>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+      <div class="seven columns">
+        
+        <div id="map-canvas"></div>
+
+        <script src="https://maps.googleapis.com/maps/api/js"></script>
+        
+        <script>
+           function initialize() {
+
+                var mapCanvas = document.getElementById('map-canvas');
+
+                    var mapCanvas = document.getElementById('map-canvas');
+                    //longitude 51.501679, latitude 0.005766//
+                    var mapOptions = {
+                    center: new google.maps.LatLng(51.418825, -0.193302),
+                    zoom: 20,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP
+                    }
+
+                var map = new google.maps.Map(mapCanvas, mapOptions);
+           }
+
+           google.maps.event.addDomListener(window, 'load', initialize);
+
+        </script>
+
+      </div>     
+      <div class="three columns" style="margin-left: 0px">
+        <table class="openinghours">
+          <tr>
+            <th>Opening times</th>
+          </tr>
+          <tr>
+            <td>Monday</td>
+            <td>11:00-23:00</td>
+          </tr>
+          <tr>
+            <td>Tuesday</td>
+            <td>11:00-23:00</td>
+          </tr> 
+            <td>Wednesday</td>
+            <td>11:00-23:00</td>
+          </tr>
+          <tr>
+            <td>Thursday</td>
+            <td>11:00-23:00</td>
+          </tr>
+            <td>Friday</td>
+            <td>11:00-01:45</td>
+          </tr> 
+            <td>Saturday</td>
+            <td>11:00-01:45</td>
+          </tr>
+          <tr>
+            <td>Sunday</td>
+            <td>11:00-23:00</td>
+          </tr>                               
+        </table>
+      </div>
+      <div class="two columns">   
+        <ul class="contactdetails">
+          <li><h4>02085406963</h4></li>
+          <li>148 Merton Road</li>
+          <li>Wimbledon</li>
+          <li>London</li>
+          <li>SW19 1EH</li>
+          <li>United Kingdom</li>
+        </ul>
+      </div> 
+    </div>
+  </div>
+
+  <!--<div class="container">
+    <div class="row">
+      <div class="one-half column" style="margin-top: 25%">
+        <h4>Basic Page</h4>
+        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
+      </div>
+    </div>
+  </div>-->
+
+  <footer>
+    <a class="footeritems">find us</a>
+    <a class="footeritems">your account </a> 
+  </footer>   
+
+
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

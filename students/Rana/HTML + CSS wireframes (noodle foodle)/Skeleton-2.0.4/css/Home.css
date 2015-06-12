@@ -1,0 +1,113 @@
+/*----------------------------------------------------contact details on home page-------------------------------------------------*/
+
+.CDHP
+{
+	margin-top: 20px;
+	list-style: none;
+	text-align: center;
+	/*padding: 10px;*/
+	/*border: rgb(110, 118, 110) 2px solid;*/
+	/*border-radius: 10px*/
+}
+
+.contactnum
+{
+	font-weight: bold;
+	background-color: rgb(171, 25, 25);
+	color: white;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+/*----------------------------------------------------previous order-------------------------------------------------*/
+
+.previousorder
+{
+	margin-top: 40px;
+	/*border: rgb(110, 118, 110) 2px solid;*/	
+}
+
+
+.basket
+{
+	max-width: 100%;
+}
+
+/*----------------------------------------------------Sign in section on home page-------------------------------------------------*/
+
+.signin
+{
+	margin-top: 20px;
+	/*border: rgb(110, 118, 110) 2px solid;*/
+	/*padding-top: 10px;*/
+	/*border-radius: 10px*/
+}
+
+.createaccountlink
+{
+	display: block;
+	text-align: center;
+	color: red;
+	text-decoration: none
+}
+
+.telluser
+{
+	margin-bottom: 5px;
+}
+
+
+
+/*----------------------------------------------------promotional advert-------------------------------------------------*/
+
+.promotion
+{
+	margin-top: 20px;
+	/*border: rgb(110, 118, 110) 2px solid;*/
+
+}
+
+.test 
+{
+	max-width: 100%
+}
+
+.chineseNewYear 
+{
+	max-width: 100%;
+}
+
+.titleitem
+{
+	background-color: rgb(171, 25, 25); 
+	color: white;
+
+}
+
+.titleitem2
+{
+
+}
+
+
+/*----------------------------------------------------on screen basket-------------------------------------------------*/
+
+.onscreenbasket
+{
+	border: black 1px solid;
+	margin-top: 20px;
+	
+}
+
+.deliveryinfo
+{
+	list-style: none;
+}
+
+
+
+
+
+
+

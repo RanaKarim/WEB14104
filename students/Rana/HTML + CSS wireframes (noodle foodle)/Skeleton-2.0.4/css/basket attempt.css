@@ -1,0 +1,27 @@
+/*----------------------------------------------------On screen basket-------------------------------------------------*/
+
+.onscreenbasket1
+{
+	max-width: 300px;
+	margin: 30px;
+	padding: 10px;
+	
+
+}
+
+.basketheading
+{
+	text-align: center;
+	background-color: red
+	
+
+}
+
+.basketdeliveryinfo2
+{
+	margin: 0px;
+	list-style: none;
+	text-align: center;
+	border: 2px green
+}
+
