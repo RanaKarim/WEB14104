@@ -1,0 +1,23 @@
+
+.contactdetails
+{
+	margin-top: 20px;
+	list-style: none;
+}
+
+
+.openinghours
+{
+	margin-top: 10px;
+	margin-left: 20px;
+	
+}
+
+#map-canvas
+{
+	width: 400px;
+    height: 400px;
+    background: yellow;
+    margin-top: 20px;
+}
+

@@ -1,0 +1,75 @@
+.titledescription
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+
+.important
+{
+	font-weight: bold;
+}
+
+.startertitle
+{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.key
+{
+	display: inline;
+	font-weight: bold;
+	
+}
+
+#hotkey
+{
+	color: red;
+}
+
+#vegkey
+{
+	color: green;
+	margin-left: 5px;
+	
+}
+
+.new
+{
+	font-weight: bold;
+	color: orange;
+}
+
+.chilli
+{
+	color: red;
+	font-weight: bold;
+
+}
+
+.veggie
+{
+	color: green;
+	font-weight: bold;
+}
+
+.tablemenu
+{
+	width: 100%;
+}
+
+.fg-fgd
+{
+	display: inline;
+}
+
+#fgd
+{
+	margin-left: 5px;
+}
+
+.numberinput
+{
+	max-width: 52px;
+}

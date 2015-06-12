@@ -1,0 +1,32 @@
+
+
+.popular-dishes
+{
+	background-color: rgb(244, 188, 96);
+}
+
+.main-basket
+{
+	margin-bottom: 0px;
+}
+
+.popular-dishes-title
+{
+	margin-bottom: 0px;	
+}
+
+.basket-food-item
+{
+	padding-left: 15px;
+}
+
+#bold
+{
+	font-weight: bold;
+}
+
+.basketheading
+{
+	margin-top: 20px;
+}
+

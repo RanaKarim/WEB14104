@@ -1,0 +1,68 @@
+/*----------------------------------------------------contact details on home page-------------------------------------------------*/
+
+.CDHP
+{
+	margin-top: 20px;
+	list-style: none;
+	text-align: center;
+	/*padding: 10px;*/
+	/*border: rgb(110, 118, 110) 2px solid;*/
+	/*border-radius: 10px*/
+}
+
+.contactnum
+{
+	font-weight: bold;
+	background-color: rgb(171, 25, 25);
+	color: white;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+/*----------------------------------------------------Sign in section on home page-------------------------------------------------*/
+
+.signin
+{
+	margin-top: 20px;
+	/*border: rgb(110, 118, 110) 2px solid;*/
+	/*padding-top: 10px;*/
+	/*border-radius: 10px*/
+}
+
+.createaccountlink
+{
+	display: block;
+	text-align: center;
+	color: red;
+	text-decoration: none
+}
+
+.telluser
+{
+	margin-bottom: 5px;
+}
+
+.inputs
+{
+	max-width: 100%;
+}
+
+.signinbuttons
+{
+	max-width: 100%;
+}
+
+.signinbuttonstext
+{
+	max-width: 100%;
+}
+
+/*-----------------------------------------------------Promotional image-------------------------------------------------*/
+
+.promtionalimage
+{
+	max-width: 100%;
+	margin-top: 20px;
+}
+
